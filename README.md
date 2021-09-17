@@ -1,4 +1,4 @@
-# react-project-template
+# Snowman
 
 ## Assignment
 
@@ -14,6 +14,8 @@ The above is a custom favicon that I made for the template, to be used in all fu
 
 <br/>
 
-A link to the webpage that I made can be found in the About section of this repository or below.
+A link to the webpage that I made can be found in the **About** section of this repository or below.
 
+```html
 https://react-template-dommitchell.netlify.app/
+```
