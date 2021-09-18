@@ -2,15 +2,11 @@
 
 ## Assignment
 
-The goal of this assignment was to create a basic webpage to act as a template for all future html/react projects.
+The goal of this assignment was to recreate a reverse Hangman game similar to the one displayed below.
 
-![image of My webpage](././images/mypage.png)
+![image of example reverse hangman](https://raw.githubusercontent.com/suncoast-devs/handbook/master/assignments/assets/snowman.gif)
 
 The above is a screen capture of the template that I created.
-
-![image of My webpage](././icons/current/dai5.svg)
-
-The above is a custom favicon that I made for the template, to be used in all future html/react projects.
 
 <br/>
 
@@ -18,4 +14,10 @@ A link to the webpage that I made can be found in the **About** section of this 
 
 ```html
 https://snowman-dommitchell.netlify.app/
+```
+
+For the classic Hangman game visit the link below.
+
+```html
+https://snowman-classic-dommitchell.netlify.app/
 ```
