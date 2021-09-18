@@ -254,10 +254,17 @@ footer {
   cursor: pointer;
 }
 
-// .letter-button disabled {
-//   cursor: not-allowed;
-// }
+.letter-button:hover {
+  background-color: transparent;
+}
 
+.letter-button:disabled {
+  cursor: not-allowed;
+}
+
+.letter-button:disabled:hover {
+  background-color: red;
+}
 
 .guess-letters {
   align-self: flex-start;
@@ -272,4 +279,3 @@ footer {
 // .reset-button {
 
 // }
-
