@@ -182,7 +182,10 @@ export function App() {
           </p>
         </div>
         <button onClick={handleNewGame} className="reset-button">
-          New Word!
+          <p>New Word!</p>
+          <svg height="45" width="145">
+            <rect height="45" width="145" />
+          </svg>
         </button>
       </footer>
     </div>
